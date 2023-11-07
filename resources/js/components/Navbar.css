@@ -1,0 +1,15 @@
+.link{
+    text-decoration: none;
+    padding-left:15px;
+    font-size:25px;
+    color:white;
+    list-style:none;
+    text-decoration:none;
+
+
+}
+.link:hover {
+    color:var(--watercolor);
+    cursor: pointer;
+    background-color:var(--hoverColor);
+}

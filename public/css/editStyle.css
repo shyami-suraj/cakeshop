@@ -1,0 +1,61 @@
+.main-header{
+    background-color:#d81b60;
+}
+.nav-link> i{
+    color:white;
+
+}
+.nav-link > span{
+    color:white;
+
+}
+.content-wrapper{
+    background-color: white;
+
+}
+
+
+.content-wrapper>.content{
+    background-color: white;
+}
+
+.container{
+    background-color:white; 
+    margin:0px;  
+    /* height:100vh; */
+}
+.head{
+    text-align: center;
+    color:#ed1874;
+    font-weight:bold; 
+    padding-top:20px;
+}
+.e-table{
+    color:#ed1874; 
+    font-size:24px; 
+    font-weight:bold; 
+    margin-top:30px; 
+    margin-left:25px;
+}
+.e-button{
+    background-color: rgb(15, 174, 15); 
+    margin-left:25px; 
+    color:white; 
+    height:40px; 
+    width:65px; 
+    border-radius:8px; 
+    border:none; 
+    margin-top:10px; 
+    font-weight:bold;
+}
+.e-input{
+    border:none;
+     background-color:#fea4c5; 
+     outline:none; 
+     border-radius:8px; 
+     margin:10px; 
+     color:#ed1874; 
+     padding-left:15px;
+}
+
+

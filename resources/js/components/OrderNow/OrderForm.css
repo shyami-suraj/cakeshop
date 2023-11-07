@@ -1,0 +1,70 @@
+ .MainContainer{
+    display: flex;
+}
+.OrderForm{
+    display: flex;
+    flex-direction: column;
+}
+.left{
+    width: 49%;
+    padding-left: 10%;
+    padding-top: 50px;
+
+}
+.right{
+    width:49% ;
+    padding: 20px;
+}
+.Orderinput, .form-control{
+    width: 50% ;
+
+}
+
+.Yourorder{
+    width: 90%;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 30px;
+}
+.orderitem{
+    padding-left: 50px;
+    display:flex;
+}
+.itemspan{
+
+    width: 380px;
+}
+hr{
+margin-left: 40px;
+height: 1.5px;
+background-color: #de5a70;
+ width: 70%;
+}
+.productname{
+    font-size: 30px;
+    font-weight: bolder;
+    color: #de5a70;
+}
+.productquantity{
+ color:black;
+ font-size:20px;
+}
+.O-btn{
+    height:50px;
+margin-top:5%;
+margin-right:50px;
+
+padding: 10px;
+background-color: #EC407A;
+color: white;
+border: none;
+font-weight: 600;
+cursor: pointer;
+}
+
+
+td{
+    width: 150px;
+
+}
+

@@ -1,0 +1,100 @@
+.profile {
+   
+  height: 100vh;
+  background-color: var(--lightpink);
+
+
+}
+
+.pro-form {
+  background-color: var(--lightpink);
+  border-radius: 0px;
+
+  margin-left:25%;
+
+
+}
+.pro-input{
+  height: 3px;
+  font-size: 16px;
+  border: 0;
+  padding: 25px;
+  width: 70%;
+  /* / border-radius: 10px; / */
+  margin: 15px;
+  color: var(--mainColor);
+ 
+
+}
+.pro-table {
+width: 80%;
+}
+
+
+.pro-select{
+  padding: 15px;
+  font-size: 16px;
+  margin: 12px;
+  color: var(--mainColor);
+  border: none;
+  width: 83%;
+
+
+}
+
+
+
+
+.pro-head {
+  color: rgb(220, 6, 106);
+  text-align: left;
+  
+  margin-left: 12px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  margin-top: 40px;
+  
+
+}
+
+.pro-l {
+  margin-left: 12px;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgb(220, 6, 106);
+
+
+}
+
+
+
+.pro-button {
+  width: 15%;
+  height: 45px;
+  padding: 10px;
+  border: none;
+  background-color: var(--mainColor);
+  color: white;
+  /* / border-radius: 5px; / */
+  font-weight: bold;
+  font-size: 20px;
+  cursor: pointer;
+  margin-top: 45px;
+  margin-bottom: 20px;
+  margin-left: 30%;
+}
+
+.p-button {
+  /* / height: 40px; / */
+  padding: 10px;
+  border: none;
+  background-color: green;
+  color: white;
+  /* / border-radius: 5px; / */
+  font-weight: bold;
+  font-size: 18px;
+  cursor: pointer;
+  margin-top: 15px;
+  /* / margin-bottom: 0px; / */
+  margin-left: 5px;
+}
